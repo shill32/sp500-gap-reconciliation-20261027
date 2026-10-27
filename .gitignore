@@ -1,0 +1,10 @@
+.DS_Store
+*.parquet
+raw/
+daily_candidates/
+sources/
+evidence/
+*.pdf
+*.html
+*.txt
+!README.md

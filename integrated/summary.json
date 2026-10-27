@@ -1,0 +1,49 @@
+{
+  "assigned_conflicts": 57,
+  "resolved_conflicts": 43,
+  "unresolved_conflicts": 14,
+  "issuer_primary_extra_years": 31,
+  "aaba_yahoo_qualified_calendar_years": 8,
+  "untrimmed_daily_histories": 364,
+  "absent_spans": 466,
+  "absent_spans_with_resolved_primary_years": 13,
+  "bankrupt_calendar_added": {
+    "ENRNQ": [
+      1995,
+      1996,
+      1997,
+      1998,
+      1999,
+      2000
+    ],
+    "WAMUQ": [
+      1996,
+      1997,
+      1998,
+      1999,
+      2000
+    ],
+    "WCOM": [
+      1996,
+      1998,
+      1999
+    ]
+  },
+  "lehman_fiscal_november_not_calendar": [
+    1996,
+    1997,
+    1998,
+    1999,
+    2000
+  ],
+  "worldcom_1997_omitted": "1999 DEF14A 216.1->274.7 vs 2000 DEF14A 268.2->311.3",
+  "acquired_early_expansion": "worker failed; RTN/UTX/XLNX/WBA early issuer tables not added",
+  "limits": [
+    "Resolved conflict returns are issuer-table ratios or issuer-corroborated Exa indexes; rounded-index uncertainty remains.",
+    "Untrimmed daily files are Yahoo-compiled frozen archives, not CRSP, not delisting cashflows, not shares.",
+    "Lehman DEF14A TSR is fiscal November, not calendar.",
+    "WM current ticker is not Washington Mutual; WaMu mapped to WAMUQ.",
+    "WorldCom 1997 withheld for table disagreement; WorldCom not assigned to MCIC.",
+    "No survivorship-safe daily or market-cap-weighted backtest inputs were changed."
+  ]
+}

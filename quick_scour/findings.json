@@ -1,0 +1,20 @@
+{
+  "scope": "Existing cached data only. No changes to source inventory, backtest, or prior reconciliation classifications.",
+  "additional_alias_annual_observations": 18,
+  "additional_alias_spans": 5,
+  "previously_unserved_spans_with_alias_candidates": 3,
+  "exact_date_cross_cache_comparisons": 659,
+  "comparisons_differing_by_more_than_1_percentage_point": 57,
+  "conflicting_tickers": 19,
+  "normalized_name_corroborated_spans": 86,
+  "name_corroborated_spans_with_any_recorded_date_overlap": 81,
+  "recorded_price_starts_after_membership_end_spans": 130,
+  "existing_corporate_action_candidate_records": 7,
+  "limits": [
+    "The one-percentage-point cutoff is a triage threshold, not a claim that smaller differences are acceptable.",
+    "Both return caches may share upstream Yahoo data; agreement is not independent verification.",
+    "Do not splice adjusted-price levels across vintages or treat raw underlying quotes as total returns.",
+    "Alias and normalized-name matches do not establish security identity, bankruptcy continuity, or shareholder consideration.",
+    "Some corporate-action records explicitly use rounded prices, last-trade proceeds, or cash-dividend approximations."
+  ]
+}

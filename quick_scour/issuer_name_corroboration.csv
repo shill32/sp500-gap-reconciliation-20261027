@@ -1,0 +1,87 @@
+inventory_row,ticker,member_from,member_to,dated_issuer_name,cached_yahoo_name,dated_holding_first,dated_holding_last,finding,recorded_price_overlaps_membership
+5,AAL,2015-03-23,2024-09-23,AMERICAN AIRLINES GROUP INC,American Airlines Group Inc.,2015-03-31,2024-06-28,Name corroborated at dated holding observations only; not full-span identity verification.,True
+7,AAP,2015-07-09,2023-08-25,ADVANCE AUTO PARTS INC,"Advance Auto Parts, Inc.",2015-09-30,2023-06-30,Name corroborated at dated holding observations only; not full-span identity verification.,True
+31,ADT,2012-10-02,2016-05-02,ADT CORPORATION,ADT Inc.,2012-12-31,2016-03-31,Name corroborated at dated holding observations only; not full-span identity verification.,False
+51,ALK,2016-05-13,2023-12-18,ALASKA AIR GROUP INC,"Alaska Air Group, Inc.",2016-06-30,2023-09-29,Name corroborated at dated holding observations only; not full-span identity verification.,True
+60,AMD,1996-01-02,2013-09-23,ADVANCED MICRO DEVICES INC,"Advanced Micro Devices, Inc.",2009-12-31,2013-06-28,Name corroborated at dated holding observations only; not full-span identity verification.,True
+63,AMG,2014-07-01,2019-12-23,AFFILIATED MANAGERS GROUP INC,"Affiliated Managers Group, Inc.",2014-09-30,2019-09-30,Name corroborated at dated holding observations only; not full-span identity verification.,True
+72,AN,2003-02-24,2017-08-08,AUTONATION INC,"AutoNation, Inc.",2009-12-31,2016-12-30,Name corroborated at dated holding observations only; not full-span identity verification.,True
+147,BHF,2017-08-07,2019-04-02,BRIGHTHOUSE FINANCIAL INC,"Brighthouse Financial, Inc.",2017-09-29,2019-03-29,Name corroborated at dated holding observations only; not full-span identity verification.,True
+185,BWA,2011-12-19,2025-03-24,BORGWARNER INC,BorgWarner Inc.,2011-12-30,2024-06-28,Name corroborated at dated holding observations only; not full-span identity verification.,True
+191,CAG,1996-01-02,2026-06-30,CONAGRA BRANDS INC,"Conagra Brands, Inc.",2009-12-31,2024-06-28,Name corroborated at dated holding observations only; not full-span identity verification.,True
+221,CE,2018-12-24,2025-03-24,CELANESE CORP,Celanese Corporation,2018-12-31,2024-06-28,Name corroborated at dated holding observations only; not full-span identity verification.,True
+290,CPRI,2016-01-04,2020-05-12,CAPRI HOLDINGS LTD,Capri Holdings Limited,2019-03-29,2020-03-31,Name corroborated at dated holding observations only; not full-span identity verification.,True
+324,CZR,2021-03-22,2025-09-22,CAESARS ENTERTAINMENT INC,"Caesars Entertainment, Inc.",2021-03-31,2024-06-28,Name corroborated at dated holding observations only; not full-span identity verification.,True
+378,DXC,2017-04-04,2023-10-02,DXC TECHNOLOGY,DXC Technology Company,2017-09-29,2023-09-29,Name corroborated at dated holding observations only; not full-span identity verification.,True
+400,EMN,1996-01-02,2025-11-04,EASTMAN CHEMICAL,Eastman Chemical Company,2009-12-31,2024-06-28,Name corroborated at dated holding observations only; not full-span identity verification.,True
+403,ENPH,2021-01-07,2025-09-22,ENPHASE ENERGY INC,"Enphase Energy, Inc.",2021-03-31,2024-06-28,Name corroborated at dated holding observations only; not full-span identity verification.,True
+409,EPAM,2021-12-14,2026-06-02,EPAM SYSTEMS INC,"EPAM Systems, Inc.",2021-12-31,2024-06-28,Name corroborated at dated holding observations only; not full-span identity verification.,True
+413,EQT,2008-12-19,2018-11-13,EQT CORP,EQT Corporation,2009-12-31,2018-09-28,Name corroborated at dated holding observations only; not full-span identity verification.,True
+425,ETSY,2020-09-21,2024-09-23,ETSY INC,"Etsy, Inc.",2020-09-30,2024-06-28,Name corroborated at dated holding observations only; not full-span identity verification.,True
+453,FHN,2002-05-06,2013-06-24,FIRST HORIZON CORP,First Horizon Corporation,2009-12-31,2013-03-28,Name corroborated at dated holding observations only; not full-span identity verification.,True
+458,FISV,2001-04-02,2023-06-07,FISERV INC,"Fiserv, Inc.",2009-12-31,2023-03-31,Name corroborated at dated holding observations only; not full-span identity verification.,True
+468,FLR,2000-12-22,2019-06-03,FLUOR CORP,Fluor Corporation,2009-12-31,2019-03-29,Name corroborated at dated holding observations only; not full-span identity verification.,True
+469,FLS,2008-10-02,2021-03-22,FLOWSERVE CORP,Flowserve Corporation,2009-12-31,2020-12-31,Name corroborated at dated holding observations only; not full-span identity verification.,True
+473,FMC,2009-08-19,2025-03-24,FMC CORP,FMC Corporation,2009-12-31,2024-06-28,Name corroborated at dated holding observations only; not full-span identity verification.,True
+477,FOSL,2012-04-04,2016-01-05,FOSSIL GROUP INC;FOSSIL GROUP INC.,"Fossil Group, Inc.",2012-06-29,2015-12-31,Name corroborated at dated holding observations only; not full-span identity verification.,True
+487,FSLR,2009-10-16,2017-03-20,FIRST SOLAR INC,"First Solar, Inc.",2009-12-31,2016-12-30,Name corroborated at dated holding observations only; not full-span identity verification.,True
+489,FTI,2009-06-05,2021-02-12,TECHNIPFMC PLC,TechnipFMC plc,2009-12-31,2020-12-31,Name corroborated at dated holding observations only; not full-span identity verification.,True
+538,GT,1996-01-02,2019-02-27,GOODYEAR TIRE & RUBBER,The Goodyear Tire & Rubber Company,2009-12-31,2018-12-31,Name corroborated at dated holding observations only; not full-span identity verification.,True
+571,HOG,2000-01-31,2020-06-22,HARLEY DAVIDSON INC,"Harley-Davidson, Inc.",2009-12-31,2020-03-31,Name corroborated at dated holding observations only; not full-span identity verification.,True
+578,HP,2010-03-01,2020-05-22,HELMERICH & PAYNE INC,"Helmerich & Payne, Inc.",2010-03-31,2020-03-31,Name corroborated at dated holding observations only; not full-span identity verification.,True
+583,HRB,1996-01-02,2020-09-21,H&R BLOCK INC,"H&R Block, Inc.",2009-12-31,2020-06-30,Name corroborated at dated holding observations only; not full-span identity verification.,True
+605,ILMN,2015-11-19,2024-06-24,ILLUMINA INC,"Illumina, Inc.",2015-12-31,2024-03-28,Name corroborated at dated holding observations only; not full-span identity verification.,True
+616,IPGP,2018-03-07,2022-06-21,IPG PHOTONICS CORP,IPG Photonics Corporation,2018-03-29,2022-03-31,Name corroborated at dated holding observations only; not full-span identity verification.,True
+623,ITT,1996-01-02,2011-11-01,ITT CORP,ITT Inc.,2009-12-31,2011-09-30,Name corroborated at dated holding observations only; not full-span identity verification.,True
+629,JBL,2001-01-30,2014-11-05,JABIL INC,Jabil Inc.,2009-12-31,2014-09-30,Name corroborated at dated holding observations only; not full-span identity verification.,True
+634,JEF,2007-08-27,2019-09-26,JEFFERIES FINANCIAL GROUP INC,Jefferies Financial Group Inc.,2018-06-29,2019-06-28,Name corroborated at dated holding observations only; not full-span identity verification.,True
+664,KMX,2010-06-28,2025-10-31,CARMAX INC,"CarMax, Inc.",2010-06-30,2024-06-28,Name corroborated at dated holding observations only; not full-span identity verification.,True
+672,KSS,1998-08-14,2020-09-21,KOHL'S CORP;KOHLS CORP,Kohl's Corporation,2009-12-31,2020-06-30,Name corroborated at dated holding observations only; not full-span identity verification.,True
+692,LKQ,2016-05-23,2025-12-22,LKQ CORP,LKQ Corporation,2016-06-30,2024-06-28,Name corroborated at dated holding observations only; not full-span identity verification.,True
+699,LNC,1996-01-02,2023-09-18,LINCOLN NATIONAL CORP,Lincoln National Corporation,2009-12-31,2023-06-30,Name corroborated at dated holding observations only; not full-span identity verification.,True
+710,LUMN,2020-09-18,2023-03-20,LUMEN TECHNOLOGIES INC,"Lumen Technologies, Inc.",2020-09-30,2022-12-30,Name corroborated at dated holding observations only; not full-span identity verification.,True
+714,LW,2018-12-03,2026-03-23,LAMB WESTON HOLDINGS INC,"Lamb Weston Holdings, Inc.",2018-12-31,2024-06-28,Name corroborated at dated holding observations only; not full-span identity verification.,True
+718,M,1996-01-02,2020-04-06,MACYS INC,"Macy's, Inc.",2009-12-31,2020-03-31,Name corroborated at dated holding observations only; not full-span identity verification.,True
+724,MAT,1996-01-02,2019-06-07,MATTEL INC,"Mattel, Inc.",2009-12-31,2019-03-29,Name corroborated at dated holding observations only; not full-span identity verification.,True
+748,MHK,2013-12-23,2025-12-22,MOHAWK INDUSTRIES INC,"Mohawk Industries, Inc.",2013-12-31,2024-06-28,Name corroborated at dated holding observations only; not full-span identity verification.,True
+758,MKTX,2019-07-01,2025-09-22,MARKETAXESS HOLDINGS INC,MarketAxess Holdings Inc.,2019-09-30,2024-06-28,Name corroborated at dated holding observations only; not full-span identity verification.,True
+768,MOH,2022-03-02,2026-03-23,MOLINA HEALTHCARE INC,"Molina Healthcare, Inc.",2022-03-31,2024-06-28,Name corroborated at dated holding observations only; not full-span identity verification.,True
+785,MTCH,2021-09-20,2026-03-23,MATCH GROUP INC,"Match Group, Inc.",2021-09-30,2024-06-28,Name corroborated at dated holding observations only; not full-span identity verification.,True
+792,MUR,2005-08-15,2017-07-26,MURPHY OIL CORP,Murphy Oil Corporation,2009-12-31,2016-12-30,Name corroborated at dated holding observations only; not full-span identity verification.,True
+803,NAVI,2014-05-01,2018-06-05,NAVIENT CORP,Navient Corporation,2014-06-30,2018-03-29,Name corroborated at dated holding observations only; not full-span identity verification.,True
+805,NBR,2000-10-18,2015-03-23,NABORS INDUSTRIES LTD,Nabors Industries Ltd.,2009-12-31,2014-12-31,Name corroborated at dated holding observations only; not full-span identity verification.,True
+814,NE,2011-01-18,2015-07-20,NOBLE CORP PLC;NOBLE CORP.;NOBLE PLC,Noble Corporation plc,2011-03-31,2015-06-30,Name corroborated at dated holding observations only; not full-span identity verification.,False
+823,NKTR,2018-03-19,2019-10-03,NEKTAR THERAPEUTICS,Nektar Therapeutics,2018-03-29,2019-09-30,Name corroborated at dated holding observations only; not full-span identity verification.,True
+830,NOV,2005-03-14,2021-09-20,NOV INC,NOV Inc.,2009-12-31,2021-06-30,Name corroborated at dated holding observations only; not full-span identity verification.,True
+844,NWL,1996-01-02,2023-09-18,NEWELL BRANDS INC,Newell Brands Inc.,2009-12-31,2023-06-30,Name corroborated at dated holding observations only; not full-span identity verification.,True
+856,OGN,2021-06-04,2023-10-18,ORGANON,Organon & Co.,2021-06-30,2023-09-29,Name corroborated at dated holding observations only; not full-span identity verification.,True
+858,OI,2009-01-02,2016-12-02,O I GLASS INC,"O-I Glass, Inc.",2009-12-31,2016-09-30,Name corroborated at dated holding observations only; not full-span identity verification.,True
+878,PAYC,2020-01-28,2026-03-23,PAYCOM SOFTWARE INC,"Paycom Software, Inc.",2020-03-31,2024-06-28,Name corroborated at dated holding observations only; not full-span identity verification.,True
+882,PBI,1996-01-02,2017-03-01,PITNEY BOWES INC,Pitney Bowes Inc.,2009-12-31,2016-12-30,Name corroborated at dated holding observations only; not full-span identity verification.,True
+885,PCG,1996-01-02,2019-01-18,PG&E CORP,PG&E Corporation,2009-12-31,2018-12-31,Name corroborated at dated holding observations only; not full-span identity verification.,True
+925,POOL,2020-10-07,2026-06-22,POOL CORP,Pool Corporation,2020-12-31,2024-06-28,Name corroborated at dated holding observations only; not full-span identity verification.,True
+930,PRGO,2011-12-19,2021-09-20,PERRIGO COMPANY;PERRIGO PLC,Perrigo Company plc,2011-12-30,2021-06-30,Name corroborated at dated holding observations only; not full-span identity verification.,True
+939,PVH,2013-02-14,2022-09-19,PVH CORP,PVH Corp.,2013-03-28,2022-06-30,Name corroborated at dated holding observations only; not full-span identity verification.,True
+954,QRVO,2015-06-12,2024-12-23,QORVO INC,"Qorvo, Inc.",2015-06-30,2024-06-28,Name corroborated at dated holding observations only; not full-span identity verification.,False
+956,R,1996-01-02,2017-06-19,RYDER SYSTEM INC,"Ryder System, Inc.",2009-12-31,2016-12-30,Name corroborated at dated holding observations only; not full-span identity verification.,True
+971,RHI,2000-12-05,2024-06-24,ROBERT HALF,Robert Half Inc.,2009-12-31,2024-03-28,Name corroborated at dated holding observations only; not full-span identity verification.,True
+974,RIG,2013-10-29,2017-07-26,TRANSOCEAN LTD,Transocean Ltd.,2013-12-31,2016-12-30,Name corroborated at dated holding observations only; not full-span identity verification.,True
+986,RRC,2007-12-21,2018-06-18,RANGE RESOURCES CORP,Range Resources Corporation,2009-12-31,2018-03-29,Name corroborated at dated holding observations only; not full-span identity verification.,True
+1006,SBNY,2021-12-20,2023-03-15,SIGNATURE BANK,Signature Bank,2021-12-31,2022-12-30,Name corroborated at dated holding observations only; not full-span identity verification.,False
+1014,SEDG,2021-12-20,2023-12-18,SOLAREDGE TECHNOLOGIES INC,"SolarEdge Technologies, Inc.",2021-12-31,2023-09-29,Name corroborated at dated holding observations only; not full-span identity verification.,True
+1025,SIG,2015-07-29,2018-03-19,SIGNET JEWELERS LTD,Signet Jewelers Limited,2015-09-30,2017-12-29,Name corroborated at dated holding observations only; not full-span identity verification.,True
+1032,SLM,1998-07-01,2014-05-01,SLM CORP,SLM Corporation,2009-12-31,2014-03-31,Name corroborated at dated holding observations only; not full-span identity verification.,True
+1038,SNDK,2006-04-20,2016-05-12,SANDISK CORP,Sandisk Corporation,2009-12-31,2016-03-31,Name corroborated at dated holding observations only; not full-span identity verification.,False
+1083,TDC,2007-10-01,2017-06-19,TERADATA CORP,Teradata Corporation,2009-12-31,2016-12-30,Name corroborated at dated holding observations only; not full-span identity verification.,True
+1094,TER,1999-11-15,2013-12-23,TERADYNE INC,"Teradyne, Inc.",2009-12-31,2013-09-30,Name corroborated at dated holding observations only; not full-span identity verification.,True
+1098,TFX,2019-01-18,2025-03-24,TELEFLEX INC,Teleflex Incorporated,2019-03-29,2024-06-28,Name corroborated at dated holding observations only; not full-span identity verification.,True
+1101,THC,1996-01-02,2016-04-18,TENET HEALTHCARE CORP;TENET HEALTHCARE CORP.,Tenet Healthcare Corporation,2009-12-31,2016-03-31,Name corroborated at dated holding observations only; not full-span identity verification.,True
+1123,TRIP,2011-12-21,2019-12-23,TRIPADVISOR INC,"Tripadvisor, Inc.",2011-12-30,2019-09-30,Name corroborated at dated holding observations only; not full-span identity verification.,True
+1162,UNM,1996-01-02,2021-09-20,UNUM GROUP,Unum Group,2014-03-31,2021-06-30,Name corroborated at dated holding observations only; not full-span identity verification.,True
+1167,URBN,2010-02-08,2017-03-20,URBAN OUTFITTERS INC,"Urban Outfitters, Inc.",2010-03-31,2016-12-30,Name corroborated at dated holding observations only; not full-span identity verification.,True
+1182,VFC,1996-01-02,2024-04-01,VF CORP,V.F. Corporation,2009-12-31,2024-03-28,Name corroborated at dated holding observations only; not full-span identity verification.,True
+1192,VNT,2020-10-12,2021-03-22,VONTIER CORP,Vontier Corporation,2020-12-31,2020-12-31,Name corroborated at dated holding observations only; not full-span identity verification.,True
+1222,WHR,1996-01-02,2024-03-18,WHIRLPOOL CORP,Whirlpool Corporation,2009-12-31,2023-12-29,Name corroborated at dated holding observations only; not full-span identity verification.,True
+1240,WU,2006-10-02,2021-12-20,WESTERN UNION,The Western Union Company,2009-12-31,2021-09-30,Name corroborated at dated holding observations only; not full-span identity verification.,True
+1252,XRAY,2008-11-14,2024-04-02,DENTSPLY SIRONA INC,DENTSPLY SIRONA Inc.,2009-12-31,2024-03-28,Name corroborated at dated holding observations only; not full-span identity verification.,True
+1253,XRX,1996-01-02,2021-03-22,XEROX HOLDINGS CORP,Xerox Holdings Corporation,2009-12-31,2020-12-31,Name corroborated at dated holding observations only; not full-span identity verification.,True

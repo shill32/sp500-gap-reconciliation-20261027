@@ -1,0 +1,102 @@
+[
+  {
+    "inventory_row": 315,
+    "inventory_ticker": "CVC",
+    "security": "CVC",
+    "year": 2016,
+    "total_return": 0.09404388714733547,
+    "baseline_price": 31.9,
+    "cash_per_share": 34.9,
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1053112/000119312516627899/d212292dsc13da.htm",
+    "baseline_source_url": "https://exa.ai/library/markets/stock/CVC?date=2016-06-20&view=return&from=2016-01-01&basis=total_return",
+    "note": "Cash merger proceeds held without interest. No intervening distribution in the vendor index."
+  },
+  {
+    "inventory_row": 408,
+    "inventory_ticker": "EP",
+    "security": "EP",
+    "year": 2012,
+    "total_return": 0.1106511102747467,
+    "baseline_price": 26.57,
+    "last_sale": 29.51,
+    "last_sale_date": "2012-05-23",
+    "source_urls": [
+      "https://exa.ai/library/markets/stock/EP?date=2011-12-31&view=series&from=2011-12-01",
+      "https://exa.ai/library/markets/stock/EP?date=2012-05-23&view=series&from=2011-12-01"
+    ],
+    "note": "Kinder Morgan closed the El Paso acquisition in May 2012. Primary merger consideration was not recovered from filings. Holding-year return uses the last El Paso sale as cash proceeds held without interest. Not today's Empire Petroleum EP ticker. No 2012 dividend is included in this proxy."
+  },
+  {
+    "inventory_row": 678,
+    "inventory_ticker": "LB",
+    "security": "LB",
+    "year": 2021,
+    "total_return": 1.3621848293849066,
+    "baseline_index": 26.078613,
+    "ending_index": 61.602504,
+    "source_url": "https://exa.ai/library/markets/stock/BBWI?date=2021-12-31&view=return&from=2021-01-01&basis=total_return",
+    "note": "L Brands continuing issuer renamed Bath & Body Works. Vendor total-return index includes distribution adjustments; no current LandBridge LB substitution."
+  },
+  {
+    "inventory_row": 972,
+    "inventory_ticker": "RHT",
+    "security": "RHT",
+    "year": 2019,
+    "total_return": 0.08175814165338191,
+    "baseline_price": 175.64,
+    "cash_per_share": 190.0,
+    "effective_date": "2019-07-09",
+    "cash_yield_after_merger": 0,
+    "source_url": "https://www.redhat.com/en/about/press-releases/ibm-closes-landmark-acquisition-red-hat-34-billion-defines-open-hybrid-cloud-future",
+    "baseline_source_url": "https://exa.ai/library/markets/stock/RHT?date=2018-12-31&view=return&from=2018-01-01&basis=total_return",
+    "note": "No dividend. Cash proceeds held through year-end, no assumed cash yield."
+  },
+  {
+    "inventory_row": 1012,
+    "inventory_ticker": "SE",
+    "security": "SE",
+    "year": 2017,
+    "total_return": -0.018290981046981458,
+    "baseline_price": 41.09,
+    "conversion_ratio": 0.984,
+    "enb_pre_conversion_close": 41.34,
+    "enb_pre_conversion_index": 22.689407,
+    "enb_ending_index": 22.259499,
+    "final_se_dividend": 0.44,
+    "dividend_payment_date": "2017-03-01",
+    "enb_dividend_reinvestment_index": 22.744292,
+    "source_urls": [
+      "https://www.enbridge.com/your-questions/user-submitted/final-strike-price-se-shares-upon-merger-closing",
+      "https://www.enbridge.com/your-questions/user-submitted/why-did-my-dividend-get-shortened",
+      "https://exa.ai/library/markets/stock/SE?date=2016-12-31&view=series&from=2016-12-01",
+      "https://exa.ai/library/markets/stock/ENB?date=2017-12-31&view=return&from=2017-02-27&basis=total_return",
+      "https://exa.ai/library/markets/stock/ENB?date=2017-12-31&view=return&from=2017-03-02&basis=total_return"
+    ],
+    "note": "Actual ENB conversion; final SE dividend buys ENB at March1 close. Later distributions use the ENB total-return index. Not today's Sea Limited SE ticker."
+  },
+  {
+    "inventory_row": 1210,
+    "inventory_ticker": "WBA",
+    "security": "WBA",
+    "year": 2014,
+    "total_return": 0.3532481085311767,
+    "baseline_adjusted_price": 38.33,
+    "ending_adjusted_price": 51.87,
+    "source_url": "https://www.digrin.com/stocks/detail/WBA/price",
+    "note": "Continuing Walgreens issuer, not a zero-return December31 IPO. Two-decimal vendor adjusted prices make this a rounded total-return proxy. Exa WAG return conflicted with independent 57.44/76.20 raw December closes and is not used. This security is far below the 2014 top-ten cutoff."
+  },
+  {
+    "inventory_row": 1211,
+    "inventory_ticker": "WBD",
+    "security": "WBD",
+    "year": 2026,
+    "total_return": 0.07622021790423306,
+    "baseline_price": 28.82,
+    "cash_per_share": 31.01666668,
+    "effective_date": "2026-10-06",
+    "cash_yield_after_merger": 0,
+    "source_url": "https://www.skydance.com/news/press/paramount-completes-acquisition-of-warner-bros-discovery-creating-a-new-global-entertainment-leader-skydance",
+    "baseline_source_url": "https://exa.ai/library/markets/stock/WBD?date=2025-12-31&view=return&from=2025-01-01&basis=total_return",
+    "note": "WBD paid no dividend in the holding period. Actual cash merger proceeds held without interest through October26, not the stale October5 trading quote. Return is cash_per_share / baseline_price - 1."
+  }
+]

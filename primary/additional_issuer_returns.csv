@@ -1,0 +1,2 @@
+ticker,year,accepted_total_return,security_name,method,uncertainty_fraction,evidence_url,evidence_file,precision
+ENE,2000,0.89,Enron Corp common stock,"Issuer annual report reported total shareholder return, rounded whole percent",0.005,https://picker.uchicago.edu/Enron/EnronAnnualReport2000.pdf,/Users/leonshi/daedalus/.portfolio-git-staging/equity_gap_reconciliation_20261027/free_expansion/primary/Enron_2000_annual_report.pdf,reported whole-percent return; not exact daily reconstruction

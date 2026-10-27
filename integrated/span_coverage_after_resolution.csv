@@ -1,0 +1,767 @@
+inventory_row,ticker,member_from,member_to,status,resolved_conflict_or_primary_years,unresolved_conflict_years,qualified_alias_years,untrimmed_archive_daily_available,archive_identity_rejected,usable_for_survivorship_safe_daily_backtest,usable_for_annual_first_pass_with_caveats
+3,AABA,1999-12-08,2017-06-19,absent: no price history found,0,0,8,True,False,False,True
+4,AAL,1996-01-02,1997-01-15,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+5,AAL,2015-03-23,2024-09-23,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+6,AAMRQ,1996-01-02,2003-03-14,absent: no price history found,0,0,0,False,False,False,False
+7,AAP,2015-07-09,2023-08-25,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+10,ABC,2001-08-30,2023-08-30,absent: no price history found,0,0,0,True,False,False,False
+11,ABI,1996-01-02,2008-11-24,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+12,ABKFQ,2000-12-11,2008-06-11,absent: no price history found,0,0,0,False,False,False,False
+13,ABMD,2018-05-31,2022-12-22,absent: no price history found,0,0,0,True,False,False,False
+15,ABS,1996-01-02,2006-06-02,absent: no price history found,0,0,0,False,False,False,False
+17,ABX,1996-01-02,2002-07-22,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+18,ACAS,2007-07-09,2009-03-04,absent: no price history found,0,0,0,False,False,False,False
+20,ACKH,1996-01-02,2000-11-17,absent: no price history found,0,0,0,False,False,False,False
+22,ACS,2004-04-02,2010-02-08,absent: no price history found,0,0,0,False,False,False,False
+23,ACV,1996-01-02,2006-11-17,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+25,ADCT,1999-08-02,2007-07-02,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+29,ADS,2013-12-23,2020-06-22,absent: no price history found,0,0,0,True,False,False,False
+31,ADT,2012-10-02,2016-05-02,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+32,AEE,1996-01-02,present,partial: price history starts after index entry,0,0,0,True,False,False,False
+35,AET,1996-01-02,2018-11-29,absent: no price history found,0,0,0,True,False,False,False
+37,AFS.A,1998-04-08,2000-12-01,absent: no price history found,0,0,0,False,False,False,False
+38,AGC,1996-01-02,2001-08-29,absent: no price history found,0,0,0,False,False,False,False
+39,AGN,1996-01-02,2020-05-12,absent: no price history found,5,1,0,False,True,False,True
+40,AHM,1996-01-02,1998-10-01,absent: no price history found,0,0,0,False,False,False,False
+42,AIT,1996-01-02,1999-10-11,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+43,AIV,2003-03-14,2020-12-21,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+47,AKS,2008-07-01,2011-12-19,absent: no price history found,0,0,0,True,False,False,False
+48,AL,1996-01-02,2002-07-22,absent: no price history found,0,0,0,True,False,False,False
+51,ALK,2016-05-13,2023-12-18,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+54,ALTR,2000-04-18,2015-12-28,absent: no price history found,0,0,0,True,False,False,False
+55,ALXN,2012-05-25,2021-07-21,absent: no price history found,0,0,0,True,False,False,False
+56,AM,1996-01-02,2004-05-03,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+58,AMCC,2001-01-02,2006-05-18,absent: no price history found,0,0,0,False,False,False,False
+60,AMD,1996-01-02,2013-09-23,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+63,AMG,2014-07-01,2019-12-23,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+65,AMH,1996-01-02,1997-09-15,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+66,AMP,1996-01-02,1999-04-05,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+69,AMTM,2024-09-30,2024-12-23,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+71,AN,1996-01-02,1999-01-04,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+72,AN,2003-02-24,2017-08-08,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+73,ANDV,2007-09-27,2018-10-01,absent: no price history found,0,0,0,False,False,False,False
+74,ANDW,1996-01-02,2006-10-02,absent: no price history found,0,0,0,False,False,False,False
+76,ANF,2007-03-29,2013-12-23,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+77,ANRZQ,2011-06-02,2012-10-02,absent: no price history found,0,0,1,False,False,False,True
+78,ANSS,2017-06-19,2025-07-18,absent: no price history found,0,0,0,True,False,False,False
+79,ANTM,2002-07-25,2022-06-28,absent: no price history found,0,0,0,True,False,False,False
+80,ANV,1996-01-02,1999-04-12,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+84,APC,1997-07-28,2019-08-09,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+85,APCC,2000-06-01,2007-02-15,absent: no price history found,0,0,0,False,False,False,False
+89,APOL,2002-05-15,2013-07-01,absent: no price history found,0,0,0,False,False,False,False
+92,AR,1996-01-02,1999-10-27,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+93,ARC,1996-01-02,2000-04-18,absent: no price history found,0,0,0,True,False,False,False
+96,ARG,2009-09-09,2016-05-23,absent: no price history found,0,0,0,False,False,False,False
+97,ARNC,1996-01-02,2020-04-06,absent: no price history found,1,0,0,True,False,False,True
+98,AS,1996-01-02,1998-11-24,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+99,ASC,1996-01-02,1999-06-24,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+100,ASH,1996-01-02,2008-11-14,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+101,ASN,2004-12-20,2007-10-08,absent: no price history found,0,0,0,False,False,False,False
+102,ASND,1998-06-12,1999-06-25,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+103,ASO,1999-03-10,2006-11-06,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+104,AT,1996-01-02,2007-11-19,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+105,ATGE,2009-06-09,2012-10-01,absent: no price history found,0,0,0,True,False,False,False
+106,ATI,1996-01-02,2015-07-02,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+108,ATVI,2015-08-31,2023-10-18,absent: no price history found,0,0,0,True,False,False,False
+109,AV,2000-10-02,2007-10-26,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+110,AVB,2007-01-10,2026-08-18,absent: no price history found,0,0,0,True,False,False,False
+112,AVP,1996-01-02,2015-03-23,absent: no price history found,0,0,0,True,False,False,False
+114,AW,1999-08-02,2008-12-05,absent: no price history found,0,0,0,False,False,False,False
+115,AWE,2001-07-09,2004-10-27,absent: no price history found,0,0,0,False,False,False,False
+119,AYE,2000-12-11,2011-02-28,absent: no price history found,0,0,0,False,False,False,False
+120,AYI,2016-05-03,2018-06-18,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+121,AZA.A,1996-01-02,2001-06-25,absent: no price history found,0,0,0,False,False,False,False
+127,BAY,1996-02-12,1998-08-31,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+128,BBBY,1999-10-01,2017-07-26,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+129,BBI,1996-01-02,1998-01-12,absent: no price history found,0,0,0,False,False,False,False
+130,BBT,1997-12-04,2019-12-09,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+131,BBWI,2021-08-03,2024-10-01,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+133,BC,1996-01-02,2008-06-23,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+134,BCO,1996-01-02,1996-01-22,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+135,BCR,1996-01-02,2017-12-29,absent: no price history found,0,0,0,False,False,False,False
+136,BDK,1996-01-02,2010-03-15,absent: no price history found,0,0,0,False,False,False,False
+138,BEAM,1996-01-02,2014-05-01,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+140,BEV,1996-01-02,1997-12-04,absent: no price history found,0,0,0,False,False,False,False
+142,BFI,1996-01-02,1999-08-02,absent: no price history found,0,0,0,False,False,False,False
+143,BFO,1996-01-02,2000-10-03,absent: no price history found,0,0,0,True,False,False,False
+145,BGEN,2000-01-31,2003-11-13,absent: no price history found,0,0,0,False,False,False,False
+146,BGG,1996-01-02,2001-04-03,absent: no price history found,0,0,0,True,False,False,False
+147,BHF,2017-08-07,2019-04-02,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+148,BHGE,1996-01-02,2019-10-18,absent: no price history found,0,0,0,True,False,False,False
+149,BHMSQ,1996-01-02,2000-12-11,absent: no price history found,0,0,0,False,False,False,False
+150,BIG,1998-01-20,2013-02-14,absent: no price history found,0,0,0,True,False,False,False
+152,BIO,2020-06-22,2024-09-23,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+153,BJS,2002-05-15,2010-04-29,absent: no price history found,0,0,0,False,False,False,False
+154,BK,1996-01-02,2026-05-21,absent: no price history found,0,0,0,True,False,False,False
+155,BKB,1996-01-02,1999-10-01,absent: no price history found,0,0,0,False,False,False,False
+160,BLL,1996-01-02,2022-05-10,absent: no price history found,6,0,0,True,False,False,True
+161,BLS,1996-01-02,2007-01-03,absent: no price history found,0,0,0,False,False,False,False
+162,BLY,1996-01-02,1996-12-19,absent: no price history found,0,0,0,False,False,False,False
+163,BMC,1998-10-01,2013-09-11,absent: no price history found,0,0,0,False,False,False,False
+164,BMET,1996-01-02,2007-07-12,absent: no price history found,0,0,0,False,False,False,False
+165,BMGCA,1996-07-22,1999-08-09,absent: no price history found,0,0,0,False,False,False,False
+166,BMS,1996-01-02,2014-12-05,absent: no price history found,0,0,0,True,False,False,False
+168,BNI,1996-01-02,2010-02-16,absent: no price history found,0,0,0,False,False,False,False
+169,BNL,1996-01-02,1998-07-01,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+171,BOAT,1996-01-02,1997-01-07,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+172,BOL,1996-01-02,2007-10-29,absent: no price history found,0,0,0,False,False,False,False
+173,BR,1996-01-02,2006-04-03,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+175,BRCM,2000-07-03,2016-02-01,absent: no price history found,0,0,0,False,False,False,False
+177,BRL,2006-02-27,2008-12-23,absent: no price history found,0,0,0,False,False,False,False
+179,BSC,1998-07-01,2008-06-02,absent: no price history found,0,0,0,False,False,False,False
+181,BT,1996-01-02,1999-06-04,absent: no price history found,0,0,0,True,False,False,False
+182,BTUUQ,2006-11-20,2014-09-22,absent: no price history found,0,0,0,False,False,False,False
+183,BUD,1996-01-02,2008-11-18,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+184,BVSN,2000-11-06,2001-09-04,absent: no price history found,0,0,0,True,False,False,False
+185,BWA,2011-12-19,2025-03-24,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+187,BXLT,2015-07-01,2016-06-03,absent: no price history found,0,0,0,False,False,False,False
+190,CA,1996-01-02,2018-11-06,absent: no price history found,0,0,0,True,False,False,False
+191,CAG,1996-01-02,2026-06-30,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+193,CAL,1996-01-02,1996-07-22,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+194,CAM,2008-01-29,2016-04-04,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+195,CAR,1996-01-02,2006-08-01,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+200,CBB,1996-01-02,1998-01-28,absent: no price history found,0,0,0,True,False,False,False
+201,CBE,1996-01-02,2009-09-09,absent: no price history found,0,0,0,False,False,False,False
+202,CBE,2011-11-23,2012-12-03,absent: no price history found,0,0,0,False,False,False,False
+203,CBH,2006-06-06,2008-03-31,absent: no price history found,0,0,0,True,False,False,False
+206,CBS,1996-01-02,2019-12-05,absent: no price history found,0,0,0,True,False,False,False
+207,CBSS,2004-12-20,2007-09-07,absent: no price history found,0,0,0,False,False,False,False
+208,CCB,1996-01-02,1996-02-12,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+209,CCE,1998-10-08,2016-05-31,absent: no price history found,6,1,0,True,False,False,True
+210,CCEP,2016-01-04,2016-05-31,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+211,CCI,1996-01-02,1998-10-08,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+213,CCK,1996-01-02,2000-12-11,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+215,CCTYQ,1996-01-02,2008-03-31,absent: no price history found,0,0,0,False,False,False,False
+216,CCU,1997-09-02,2008-07-31,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+217,CDAY,2021-09-20,2024-02-01,absent: no price history found,0,0,0,True,False,False,False
+220,CE,2001-04-02,2004-02-27,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+221,CE,2018-12-24,2025-03-24,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+222,CEG,1996-01-02,2012-03-13,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+224,CELG,2006-11-06,2019-11-21,absent: no price history found,0,0,0,True,False,False,False
+225,CEN,1996-01-02,2001-04-02,absent: no price history found,0,0,0,True,False,False,False
+226,CEPH,2008-11-17,2011-10-14,absent: no price history found,0,0,0,False,False,False,False
+227,CERN,2010-04-30,2022-06-08,absent: no price history found,0,0,0,True,False,False,False
+228,CF,2000-06-19,2004-09-01,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+230,CFC,1997-06-18,2008-07-01,absent: no price history found,0,0,0,False,False,False,False
+232,CFL,1996-01-02,1998-04-28,absent: no price history found,0,0,0,False,False,False,False
+233,CFN,2009-09-01,2015-03-17,absent: no price history found,0,0,0,False,False,False,False
+234,CG,1996-01-02,2000-11-02,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+235,CGP,1996-01-02,2001-01-30,absent: no price history found,0,0,0,False,False,False,False
+236,CHA,1996-01-02,2000-06-19,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+238,CHIR,2000-11-24,2006-04-20,absent: no price history found,0,0,0,False,False,False,False
+239,CHK,2006-03-03,2018-03-19,absent: no price history found,5,0,0,True,False,False,True
+240,CHRS,1996-01-02,1998-04-08,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+244,CIEN,2001-08-30,2009-12-21,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+246,CIN,1996-01-02,2006-04-03,absent: no price history found,0,0,0,False,False,False,False
+248,CIT.A,2000-07-17,2001-06-04,absent: no price history found,0,0,0,False,False,False,False
+249,CITGQ,2004-10-27,2009-07-27,absent: no price history found,0,0,0,False,False,False,False
+251,CLF,2009-12-21,2014-04-02,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+253,CMA,1996-01-02,2024-06-24,absent: no price history found,0,0,0,True,False,False,False
+254,CMB,1996-01-02,1996-04-01,absent: no price history found,0,0,0,False,False,False,False
+256,CMCSK,2015-09-21,2015-12-14,absent: no price history found,0,0,0,False,False,False,False
+261,CMVT,1999-10-27,2007-02-01,absent: no price history found,0,0,0,False,False,False,False
+262,CMX,2004-03-25,2007-03-23,absent: no price history found,0,0,0,False,False,False,False
+263,CNC,1997-01-15,2002-07-25,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+265,CNG,1996-01-02,2000-01-31,absent: no price history found,0,0,0,False,False,False,False
+267,CNW,1996-01-02,1996-12-03,absent: no price history found,0,0,0,False,False,False,False
+268,CNX,2006-06-28,2016-03-04,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+269,CNXT,2000-01-31,2002-06-26,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+270,COC.B,1999-08-09,2002-09-03,absent: no price history found,0,0,0,False,False,False,False
+272,COG,2008-06-23,2021-10-04,absent: no price history found,3,0,0,True,False,False,True
+275,COL,2001-07-02,2018-11-27,absent: no price history found,0,0,0,True,False,False,False
+276,COMS,1996-01-02,2000-07-28,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+281,COTY,2016-10-03,2020-09-21,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+282,COV,1996-01-02,1996-08-16,absent: no price history found,0,0,0,False,False,False,False
+283,COV,2007-07-02,2009-06-05,absent: no price history found,0,0,0,False,False,False,False
+284,COV,2011-03-01,2015-01-27,absent: no price history found,0,0,0,False,False,False,False
+286,CPB,1996-01-02,2026-06-22,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+287,CPGX,2015-07-02,2016-07-01,absent: no price history found,0,0,0,False,False,False,False
+288,CPNLQ,2000-12-01,2005-12-02,absent: no price history found,0,0,0,False,False,False,False
+289,CPQ,1996-01-02,2002-05-06,absent: no price history found,0,0,0,False,False,False,False
+290,CPRI,2016-01-04,2020-05-12,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+293,CPWR,1999-01-04,2012-01-03,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+294,CR,1996-01-02,2004-12-20,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+298,CRR,1996-01-02,1997-05-27,absent: no price history found,0,0,0,True,False,False,False
+301,CSE,1996-01-22,1999-11-15,absent: no price history found,0,0,0,False,False,False,False
+303,CSR,1996-01-02,2000-06-16,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+304,CSRA,2015-11-30,2018-04-04,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+307,CTB,1996-01-02,2006-07-18,absent: no price history found,0,0,0,True,False,False,False
+308,CTL,1999-03-25,2020-09-18,absent: no price history found,0,0,0,True,False,False,False
+309,CTLT,2020-09-21,2024-12-23,absent: no price history found,0,0,0,True,False,False,False
+310,CTRA,2021-10-04,2026-05-07,absent: no price history found,0,0,0,False,False,False,False
+313,CTX,1996-01-02,2009-08-19,absent: no price history found,0,0,0,False,False,False,False
+314,CTXS,1999-12-01,2022-10-03,absent: no price history found,0,0,0,True,False,False,False
+315,CVC,2010-12-20,2016-06-21,absent: no price history found,0,0,0,False,False,False,False
+316,CVG,2000-06-13,2009-12-21,absent: no price history found,0,0,0,False,False,False,False
+317,CVH,2005-08-30,2013-05-07,absent: no price history found,0,0,0,False,False,False,False
+321,CXO,2016-02-22,2021-01-21,absent: no price history found,0,0,0,True,False,False,False
+322,CYM,1996-01-02,1999-10-18,absent: no price history found,0,0,0,False,False,False,False
+323,CYR,1996-01-02,1996-03-28,absent: no price history found,0,0,0,False,False,False,False
+324,CZR,2021-03-22,2025-09-22,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+327,DALRQ,1996-01-02,2005-08-19,absent: no price history found,0,0,0,False,False,False,False
+329,DAY,2024-02-01,2026-02-09,absent: no price history found,0,0,0,False,False,False,False
+330,DCNAQ,1996-01-02,2006-03-03,absent: no price history found,0,0,0,False,False,False,False
+331,DD,1996-01-02,2017-09-01,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+334,DDR,2007-03-23,2009-03-30,absent: no price history found,0,0,0,True,False,False,False
+335,DDS,1996-01-02,2008-10-22,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+337,DEC,1996-01-02,1998-06-12,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+339,DELL,1996-09-06,2013-10-29,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+341,DF,2006-04-03,2013-05-24,absent: no price history found,0,0,0,True,False,False,False
+342,DFS,2007-07-02,2025-05-19,absent: no price history found,0,0,0,True,False,False,False
+343,DG,1998-07-16,2007-07-09,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+345,DGN,1996-01-02,1999-10-13,absent: no price history found,0,0,0,False,False,False,False
+349,DI,1996-01-02,1998-09-30,absent: no price history found,0,0,0,False,False,False,False
+350,DIGI,1996-01-02,1998-08-28,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+352,DISCA,2010-03-01,2022-04-11,absent: no price history found,1,0,0,True,False,False,True
+353,DISCK,2014-08-07,2022-04-11,absent: no price history found,0,0,0,True,False,False,False
+354,DISH,2017-03-13,2023-06-20,absent: no price history found,0,0,0,True,False,False,False
+355,DJ,1996-01-02,2007-12-14,absent: no price history found,0,0,0,False,False,False,False
+358,DLX,1996-01-02,2004-12-20,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+359,DNB,2008-12-02,2017-04-05,absent: no price history found,0,0,0,True,False,False,False
+360,DNR,2009-04-02,2015-03-23,absent: no price history found,0,0,0,True,False,False,False
+361,DO,2009-02-26,2016-10-03,absent: no price history found,7,0,0,True,False,False,True
+364,DOW,1996-01-02,2017-09-01,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+366,DPHIQ,1999-05-28,2005-10-11,absent: no price history found,0,0,0,False,False,False,False
+368,DRE,2017-07-26,2022-10-03,absent: no price history found,0,0,0,True,False,False,False
+371,DTV,2006-12-04,2015-07-27,absent: no price history found,0,0,0,True,False,False,False
+375,DWD,1996-01-02,1997-06-02,absent: no price history found,0,0,0,False,False,False,False
+376,DWDP,2017-09-01,2019-06-03,absent: no price history found,0,0,0,True,False,False,False
+377,DXC,1996-01-02,2015-12-01,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+378,DXC,2017-04-04,2023-10-02,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+380,DYN,2000-10-03,2009-12-21,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+381,EA,2002-07-22,2026-08-05,absent: no price history found,0,0,0,True,False,False,False
+383,EC,1996-01-02,2006-06-06,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+384,ECH,1996-01-02,1998-07-10,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+387,ECO,1996-01-02,1998-01-20,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+389,EDS,1998-08-11,2008-08-26,absent: no price history found,0,0,0,False,False,False,False
+390,EFU,1996-01-02,2000-11-02,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+393,EHC,1997-01-08,2003-03-21,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+395,EKDKQ,1996-01-02,2010-12-20,absent: no price history found,0,0,1,False,False,False,True
+398,EMC,1996-03-28,2016-09-07,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+400,EMN,1996-01-02,2025-11-04,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+402,ENDP,2015-01-27,2017-03-02,absent: no price history found,0,0,0,True,False,False,False
+403,ENPH,2021-01-07,2025-09-22,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+404,ENRNQ,1996-01-02,2001-11-30,absent: no price history found,6,0,0,False,False,False,True
+405,ENS,1996-01-02,1997-08-06,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+407,EOP,2001-10-10,2007-02-12,absent: no price history found,0,0,0,False,False,False,False
+408,EP,1999-10-26,2012-05-25,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+409,EPAM,2021-12-14,2026-06-02,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+410,EQ,2006-05-18,2009-07-01,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+412,EQR,2001-12-03,2026-08-18,absent: no price history found,0,0,0,True,False,False,False
+413,EQT,2008-12-19,2018-11-13,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+417,ESRX,2003-09-26,2018-12-21,absent: no price history found,0,0,0,True,False,False,False
+419,ESV,2007-01-04,2009-12-23,absent: no price history found,0,0,0,True,False,False,False
+420,ESV,2012-07-31,2016-03-30,absent: no price history found,0,0,0,True,False,False,False
+421,ETFC,2004-04-01,2020-10-07,absent: no price history found,0,0,0,True,False,False,False
+424,ETS,1996-01-02,2001-08-06,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+425,ETSY,2020-09-21,2024-09-23,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+426,EVHC,2016-12-02,2018-10-11,absent: no price history found,0,0,0,False,False,False,False
+437,FB,2013-12-23,2022-06-09,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+438,FBF,1996-01-02,2004-04-01,absent: no price history found,0,0,0,False,False,False,False
+439,FBHS,2016-06-24,2022-12-19,absent: no price history found,0,0,0,True,False,False,False
+440,FBO,1996-01-02,1996-03-13,absent: no price history found,0,0,0,False,False,False,False
+441,FCN,1996-01-02,1998-10-02,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+442,FCPT,2015-11-10,2015-11-17,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+444,FDC,1996-01-02,2007-09-25,absent: no price history found,0,0,0,True,False,False,False
+445,FDO,2001-08-06,2015-07-07,absent: no price history found,0,0,0,False,False,False,False
+449,FE,1996-01-02,present,partial: price history starts after index entry,0,0,0,True,False,False,False
+452,FG,1996-01-02,1998-04-27,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+453,FHN,2002-05-06,2013-06-24,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+454,FI,2023-06-07,2025-11-11,absent: no price history found,0,0,0,True,False,False,False
+456,FII,2003-04-16,2013-01-02,absent: no price history found,0,0,0,True,False,False,False
+458,FISV,2001-04-02,2023-06-07,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+462,FJ,1996-01-02,2000-11-24,absent: no price history found,0,0,0,False,False,False,False
+463,FL,1996-01-02,1999-01-04,absent: no price history found,0,0,0,True,False,False,False
+464,FL,2016-04-04,2019-08-09,absent: no price history found,0,0,0,True,False,False,False
+466,FLIR,2009-01-02,2021-05-14,absent: no price history found,0,0,0,True,False,False,False
+467,FLMIQ,1996-01-02,1997-12-24,absent: no price history found,0,0,0,False,False,False,False
+468,FLR,2000-12-22,2019-06-03,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+469,FLS,2008-10-02,2021-03-22,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+470,FLT,2018-06-20,2024-03-25,absent: no price history found,0,0,0,True,False,False,False
+471,FLTWQ,1996-01-02,2000-01-31,absent: no price history found,0,0,0,False,False,False,False
+472,FMC,1996-01-02,2002-01-02,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+473,FMC,2009-08-19,2025-03-24,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+474,FMCC,1996-01-02,2008-09-11,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+475,FMY,1998-07-10,1999-05-28,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+476,FNMA,1996-01-02,2008-09-11,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+477,FOSL,2012-04-04,2016-01-05,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+478,FOX,2015-09-21,present,partial: price history starts after index entry,0,0,0,True,False,False,False
+479,FOXA,2004-12-20,present,partial: price history starts after index entry,0,0,0,True,False,False,False
+480,FPC,1999-06-22,2000-12-01,absent: no price history found,0,0,0,False,False,False,False
+481,FRC,2019-01-02,2023-05-04,absent: no price history found,0,0,0,True,False,False,False
+482,FRO,1997-01-02,1999-09-29,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+484,FRX,2000-11-22,2014-07-01,absent: no price history found,0,0,0,False,False,False,False
+485,FSH,2004-08-03,2006-11-10,absent: no price history found,0,0,0,False,False,False,False
+486,FSL,2004-12-03,2006-12-04,absent: no price history found,0,0,0,False,False,False,False
+487,FSLR,2009-10-16,2017-03-20,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+489,FTI,2009-06-05,2021-02-12,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+490,FTL.A,1996-01-02,1999-10-01,absent: no price history found,0,0,0,False,False,False,False
+492,FTR,2001-02-27,2017-03-20,absent: no price history found,10,0,0,True,False,False,True
+494,FWLT,1996-01-02,2000-01-31,absent: no price history found,0,0,0,False,False,False,False
+495,G,1996-01-02,2005-10-03,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+496,GAPTQ,1996-01-02,2000-08-30,absent: no price history found,0,0,0,False,False,False,False
+497,GAS,1996-01-02,2011-12-12,absent: no price history found,0,0,0,False,False,False,False
+498,GAS,2011-12-13,2016-07-01,absent: no price history found,0,0,0,False,False,False,False
+501,GDT,1996-12-19,2006-04-24,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+502,GDW,1996-01-02,2006-10-02,absent: no price history found,0,0,0,False,False,False,False
+506,GENZ,2001-12-14,2011-04-04,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+508,GFS.A,1996-01-02,1998-07-16,absent: no price history found,0,0,0,False,False,False,False
+509,GGP,2007-07-02,2008-11-13,absent: no price history found,0,0,0,False,False,False,False
+510,GGP,2013-12-10,2018-08-28,absent: no price history found,0,0,0,False,False,False,False
+511,GHC,2007-12-31,2014-09-22,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+512,GIDL,1996-01-02,1997-07-17,absent: no price history found,0,0,0,False,False,False,False
+516,GLD,1996-01-02,1997-05-06,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+517,GLK,1996-01-02,2005-07-05,absent: no price history found,0,0,0,False,False,False,False
+520,GMCR,2014-03-24,2016-03-03,absent: no price history found,0,0,0,False,False,False,False
+521,GME,2007-12-14,2016-04-25,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+523,GNT,1996-03-13,1998-07-01,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+524,GNW,2005-12-02,2015-11-18,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+527,GP,1996-01-02,2005-12-20,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+530,GPS,1996-01-02,2022-02-02,absent: no price history found,0,1,0,True,False,False,False
+531,GPU,1996-01-02,2001-11-07,absent: no price history found,0,0,0,False,False,False,False
+532,GR,1996-01-02,2012-07-27,absent: no price history found,0,0,0,False,False,False,False
+533,GRA,1996-01-02,2000-12-11,absent: no price history found,0,0,0,True,False,False,False
+535,GRN,1996-01-02,1998-12-22,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+537,GSX,1996-01-02,1998-10-07,absent: no price history found,0,0,0,False,False,False,False
+538,GT,1996-01-02,2019-02-27,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+539,GTE,1996-01-02,2000-07-03,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+540,GTW,1998-04-27,2006-08-01,absent: no price history found,0,0,0,False,False,False,False
+541,GWF,1996-01-02,1997-07-02,absent: no price history found,0,0,0,False,False,False,False
+543,GX,1999-09-29,2001-10-10,absent: no price history found,0,0,0,False,False,False,False
+544,H,1996-01-02,2001-06-29,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+545,H,2006-08-01,2007-04-10,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+547,HAR,2006-02-01,2017-03-13,absent: no price history found,0,0,0,False,False,False,False
+550,HBI,2015-03-23,2021-12-20,absent: no price history found,0,1,0,True,False,False,False
+551,HBOC,1997-10-23,1999-01-13,absent: no price history found,0,0,0,False,False,False,False
+552,HCA,1996-01-02,2006-11-20,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+554,HCBK,2007-02-15,2015-11-02,absent: no price history found,0,0,0,False,False,False,False
+555,HCP,2008-03-31,2019-11-05,absent: no price history found,0,0,0,True,False,False,False
+556,HCR,1998-09-28,2007-11-09,absent: no price history found,0,0,0,False,False,False,False
+558,HDLM,1996-01-02,1996-03-08,absent: no price history found,0,0,0,False,False,False,False
+559,HES,1996-01-02,2025-07-23,absent: no price history found,0,0,0,True,False,False,False
+560,HET,1996-01-02,2008-01-29,absent: no price history found,0,0,0,False,False,False,False
+561,HFC,2018-06-18,2021-06-04,absent: no price history found,0,0,0,True,False,False,False
+562,HFS,1996-08-16,1997-12-18,absent: no price history found,0,0,0,False,False,False,False
+563,HI,1996-01-02,2003-03-31,absent: no price history found,0,0,0,True,False,False,False
+566,HLT,1996-01-02,2007-10-25,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+568,HM,1996-01-02,2001-12-17,absent: no price history found,0,0,0,False,False,False,False
+569,HMA,2001-11-07,2007-03-02,absent: no price history found,0,0,0,False,False,False,False
+570,HNZ,1996-01-02,2013-06-07,absent: no price history found,0,0,0,False,False,False,False
+571,HOG,2000-01-31,2020-06-22,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+572,HOLX,2016-03-30,2026-04-09,absent: no price history found,0,0,0,True,False,False,False
+576,HOT,2000-11-17,2016-09-23,absent: no price history found,0,0,0,False,False,False,False
+577,HP,1996-01-02,1999-12-31,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+578,HP,2010-03-01,2020-05-22,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+579,HPC,1996-01-02,2008-11-14,absent: no price history found,0,0,0,False,False,False,False
+581,HPH,1996-01-02,1999-06-09,absent: no price history found,0,0,0,False,False,False,False
+583,HRB,1996-01-02,2020-09-21,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+585,HRS,1996-01-02,1999-11-08,absent: no price history found,0,0,0,True,False,False,False
+586,HRS,2008-09-22,2019-06-01,absent: no price history found,0,0,0,True,False,False,False
+587,HSH,1996-01-02,2012-06-29,absent: no price history found,0,0,0,False,False,False,False
+589,HSP,2004-05-03,2015-09-03,absent: no price history found,0,0,0,False,False,False,False
+595,I,1996-01-02,1996-04-01,absent: no price history found,0,0,0,True,False,False,False
+596,IAC,2006-12-01,2008-08-21,absent: no price history found,0,0,0,True,False,False,False
+603,IGT,2001-09-04,2014-06-20,absent: no price history found,0,1,0,True,False,False,False
+604,IKN,1996-01-02,2000-06-29,absent: no price history found,0,0,0,False,False,False,False
+605,ILMN,2015-11-19,2024-06-24,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+606,IMNX,2001-09-21,2002-07-16,absent: no price history found,0,0,0,False,False,False,False
+607,INCLF,1996-01-02,2002-07-22,absent: no price history found,0,0,0,False,False,False,False
+609,INFO,2017-06-02,2022-03-02,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+610,INGR,1996-01-02,1997-07-28,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+615,IPG,1996-01-02,2025-11-28,absent: no price history found,0,0,0,True,False,False,False
+616,IPGP,2018-03-07,2022-06-21,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+618,IR,1996-01-02,2009-07-01,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+619,IR,2010-11-17,present,partial: price history starts after index entry,0,0,0,True,False,False,False
+623,ITT,1996-01-02,2011-11-01,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+627,JAVA,1996-01-02,2010-01-27,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+629,JBL,2001-01-30,2014-11-05,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+632,JCP,1996-01-02,2013-12-02,absent: no price history found,0,0,0,True,False,False,False
+633,JEC,2007-10-26,2019-12-10,absent: no price history found,0,0,0,True,False,False,False
+634,JEF,2007-08-27,2019-09-26,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+635,JH,1996-01-02,1998-04-01,absent: no price history found,0,0,0,False,False,False,False
+636,JHF,2001-06-29,2004-04-29,absent: no price history found,0,0,0,False,False,False,False
+639,JNPR,2006-06-02,2025-07-09,absent: no price history found,0,0,0,True,False,False,False
+640,JNS,2000-07-13,2011-11-23,absent: no price history found,0,0,0,False,False,False,False
+641,JNY,2001-12-17,2009-03-04,absent: no price history found,0,0,0,False,False,False,False
+642,JOS,1996-01-02,2000-05-10,absent: no price history found,0,0,0,False,False,False,False
+643,JOY,2011-02-28,2015-10-08,absent: no price history found,0,0,0,False,False,False,False
+644,JP,1996-01-02,2006-04-03,absent: no price history found,0,0,0,True,False,False,False
+646,JWN,1996-01-02,2020-06-22,absent: no price history found,0,0,0,True,False,False,False
+647,K,1996-01-02,2025-12-11,absent: no price history found,0,0,0,True,False,False,False
+648,KATE,1996-01-02,2008-12-02,absent: no price history found,0,0,0,False,False,False,False
+649,KBH,1996-01-02,2009-12-21,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+650,KDP,2008-10-07,2018-07-02,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+654,KG,2000-10-03,2010-12-20,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+659,KM,1996-01-02,2002-01-17,absent: no price history found,0,0,0,False,False,False,False
+661,KMG,1996-01-02,2006-08-11,absent: no price history found,0,0,0,True,False,False,False
+662,KMI,2000-12-12,2007-05-31,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+664,KMX,2010-06-28,2025-10-31,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+666,KORS,2013-11-13,2018-09-19,absent: no price history found,0,0,0,True,False,False,False
+668,KRB,1996-01-02,2006-01-03,absent: no price history found,0,0,0,False,False,False,False
+669,KRFT,2012-10-02,2015-07-06,absent: no price history found,0,0,0,False,False,False,False
+670,KRI,1996-01-02,2006-06-28,absent: no price history found,0,0,0,False,False,False,False
+671,KSE,2000-08-21,2007-08-27,absent: no price history found,0,0,0,False,False,False,False
+672,KSS,1998-08-14,2020-09-21,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+673,KSU,1999-04-05,2000-07-13,absent: no price history found,0,0,0,True,False,False,False
+674,KSU,2013-05-24,2021-12-14,absent: no price history found,0,0,0,True,False,False,False
+676,KWP,1996-01-02,1999-11-16,absent: no price history found,0,0,0,False,False,False,False
+678,LB,1996-01-02,2021-08-03,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+679,LDG,1996-01-02,2001-07-02,absent: no price history found,0,0,0,False,False,False,False
+680,LDOS,2009-12-21,2013-09-23,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+682,LDW.B,1996-01-02,1999-12-08,absent: no price history found,0,0,0,False,False,False,False
+683,LEG,1999-10-18,2021-12-20,absent: no price history found,0,0,0,True,False,False,False
+684,LEHMQ,1998-01-12,2008-09-17,absent: no price history found,0,0,0,False,False,False,False
+688,LIFE,2008-11-24,2014-01-24,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+692,LKQ,2016-05-23,2025-12-22,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+693,LLL,2004-12-01,2019-07-01,absent: no price history found,0,1,0,True,False,False,False
+694,LLTC,2000-04-03,2017-03-13,absent: no price history found,0,0,0,False,False,False,False
+695,LLX,1996-01-02,1997-10-23,absent: no price history found,0,0,0,False,False,False,False
+697,LM,2006-04-24,2016-12-02,absent: no price history found,0,0,0,True,False,False,False
+699,LNC,1996-01-02,2023-09-18,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+701,LO,2008-06-11,2015-06-12,absent: no price history found,0,0,0,False,False,False,False
+702,LOR,1996-01-02,1996-04-23,absent: no price history found,0,0,0,True,False,False,False
+704,LPX,1996-01-02,2006-11-10,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+706,LSI,1996-01-02,2014-05-07,absent: no price history found,5,0,0,False,True,False,True
+707,LU,1996-10-01,2006-12-01,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+708,LUB,1996-01-02,1997-01-02,absent: no price history found,0,0,0,True,False,False,False
+710,LUMN,2020-09-18,2023-03-20,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+712,LVLT,2014-11-05,2017-10-13,absent: no price history found,0,0,0,False,False,False,False
+714,LW,2018-12-03,2026-03-23,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+715,LXK,1999-08-13,2012-10-01,absent: no price history found,0,0,0,False,False,False,False
+718,M,1996-01-02,2020-04-06,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+721,MAC,2013-05-09,2019-12-23,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+724,MAT,1996-01-02,2019-06-07,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+725,MAY,1996-01-02,2005-08-29,absent: no price history found,0,0,0,False,False,False,False
+726,MBI,1996-12-03,2009-12-21,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+729,MCIC,1996-01-02,1998-09-15,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+732,MD,1996-01-02,1997-08-01,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+734,MDP,1996-01-02,2011-01-04,absent: no price history found,0,0,0,True,False,False,False
+735,MDR,1996-01-02,2003-08-20,absent: no price history found,0,0,0,True,False,False,False
+737,MEA,1996-01-02,2002-01-30,absent: no price history found,0,0,0,False,False,False,False
+738,MEDI,2000-06-16,2007-06-01,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+739,MEE,1996-01-02,2000-12-22,absent: no price history found,0,0,0,False,False,False,False
+740,MEE,2008-06-23,2011-06-02,absent: no price history found,0,0,0,False,False,False,False
+741,MEL,1996-01-02,2007-07-02,absent: no price history found,0,0,0,False,False,False,False
+742,MER,1996-01-02,2009-01-02,absent: no price history found,0,0,0,False,False,False,False
+743,MERQ,2000-06-29,2006-01-04,absent: no price history found,0,0,0,False,False,False,False
+746,MFE,2008-12-23,2011-03-01,absent: no price history found,0,0,0,False,False,False,False
+748,MHK,2013-12-23,2025-12-22,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+749,MHS,2003-08-20,2012-04-02,absent: no price history found,0,0,0,False,False,False,False
+750,MI,2002-02-11,2011-07-06,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+751,MII,1996-01-02,1999-06-22,absent: no price history found,0,0,0,False,False,False,False
+752,MIL,1996-01-02,2010-07-15,absent: no price history found,0,0,0,False,False,False,False
+753,MIR,1997-08-07,2000-06-01,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+754,MIR,2001-04-03,2003-07-17,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+755,MJN,2009-12-21,2017-06-15,absent: no price history found,0,0,0,False,False,False,False
+757,MKG,1996-01-02,2000-10-18,absent: no price history found,0,0,0,False,False,False,False
+758,MKTX,2019-07-01,2025-09-22,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+760,MMC,1996-01-02,2026-01-14,absent: no price history found,0,0,0,True,False,False,False
+761,MMI,2011-01-04,2012-05-22,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+763,MNK,2014-08-19,2017-07-26,absent: no price history found,0,0,0,True,False,False,False
+764,MNR,1996-01-02,1998-09-28,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+767,MOB,1996-01-02,1999-12-01,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+768,MOH,2022-03-02,2026-03-23,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+769,MOLX,1999-12-01,2013-12-09,absent: no price history found,0,0,0,False,False,False,False
+770,MON,2002-08-14,2018-06-07,absent: no price history found,0,0,0,False,False,False,False
+776,MRO,1996-01-02,2024-11-26,absent: no price history found,0,3,0,True,False,False,False
+783,MST,1996-01-02,1998-08-14,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+785,MTCH,2021-09-20,2026-03-23,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+787,MTG,1996-07-19,2008-10-31,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+788,MTL,1998-02-23,1999-09-20,absent: no price history found,0,0,0,True,False,False,False
+789,MTLQQ,1996-01-02,2009-06-03,absent: no price history found,0,0,0,False,False,False,False
+790,MTW,2007-11-16,2009-09-01,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+792,MUR,2005-08-15,2017-07-26,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+793,MWI,1996-01-02,1999-05-28,absent: no price history found,0,0,0,False,False,False,False
+794,MWV,1996-01-02,2015-07-02,absent: no price history found,0,0,0,False,False,False,False
+795,MWW,2001-06-04,2011-12-19,absent: no price history found,0,0,0,False,False,False,False
+796,MXIM,2000-05-10,2007-09-27,absent: no price history found,0,0,0,True,False,False,False
+797,MXIM,2018-12-03,2021-08-30,absent: no price history found,0,0,0,True,False,False,False
+798,MYG,1996-01-02,2006-04-03,absent: no price history found,0,0,0,False,False,False,False
+799,MYL,2004-04-23,2020-11-17,absent: no price history found,0,0,0,True,False,False,False
+800,MZIAQ,1996-01-02,2000-06-29,absent: no price history found,0,0,0,False,False,False,False
+801,NAE,1996-01-02,1997-08-07,absent: no price history found,0,0,0,False,False,False,False
+802,NAV,1996-01-02,2006-12-20,absent: no price history found,0,0,0,True,False,False,False
+803,NAVI,2014-05-01,2018-06-05,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+804,NBL,2007-10-08,2020-10-12,absent: no price history found,4,0,0,True,False,False,True
+805,NBR,2000-10-18,2015-03-23,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+806,NC,1996-01-02,2000-06-05,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+807,NCC,1996-01-02,2009-01-02,absent: no price history found,0,0,0,False,False,False,False
+808,NCE,1998-11-03,2000-08-21,absent: no price history found,0,0,0,False,False,False,False
+810,NCR,2000-01-04,2007-10-01,absent: no price history found,0,0,0,True,False,False,False
+813,NE,2001-01-16,2009-03-27,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+814,NE,2011-01-18,2015-07-20,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+817,NFB,2002-07-17,2006-12-01,absent: no price history found,0,0,0,False,False,False,False
+819,NFX,2010-12-20,2019-02-15,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+820,NGH,1998-09-16,2000-12-12,absent: no price history found,0,0,0,False,False,False,False
+823,NKTR,2018-03-19,2019-10-03,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+824,NLC,1996-01-02,1999-08-02,absent: no price history found,0,0,0,False,False,False,False
+825,NLOK,2019-11-05,2022-11-08,absent: no price history found,0,0,0,False,False,False,False
+826,NLSN,2013-07-09,2022-10-12,absent: no price history found,0,0,0,True,False,False,False
+827,NLV,1996-04-01,2000-01-06,absent: no price history found,0,0,0,False,False,False,False
+828,NMK,1996-01-02,2002-02-01,absent: no price history found,0,0,0,False,False,False,False
+830,NOV,2005-03-14,2021-09-20,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+831,NOVL,1996-01-02,2011-04-28,absent: no price history found,0,0,0,False,False,False,False
+834,NRTLQ,1996-01-02,2002-07-22,absent: no price history found,0,0,0,False,False,False,False
+836,NSI,1996-01-02,2001-12-03,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+837,NSM,1996-01-02,2011-09-26,absent: no price history found,0,0,0,False,False,False,False
+842,NVLS,2000-06-19,2012-06-05,absent: no price history found,0,0,0,False,False,False,False
+844,NWL,1996-01-02,2023-09-18,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+848,NXTL,1998-04-01,2005-08-15,absent: no price history found,0,0,0,False,False,False,False
+849,NYN,1996-01-02,1997-08-15,absent: no price history found,0,0,0,False,False,False,False
+850,NYT,1996-01-02,2010-12-20,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+851,NYX,2007-10-25,2013-11-13,absent: no price history found,0,0,0,False,False,False,False
+853,OAT,1996-01-02,2001-08-03,absent: no price history found,0,0,0,False,False,False,False
+855,ODP,1999-06-24,2010-12-20,absent: no price history found,0,0,0,True,False,False,False
+856,OGN,2021-06-04,2023-10-18,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+857,OI,1997-08-04,2000-12-11,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+858,OI,2009-01-02,2016-12-02,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+859,OK,1999-12-02,2001-04-02,absent: no price history found,0,0,0,False,False,False,False
+860,OKE,1996-01-02,2001-08-30,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+862,OM,1996-01-02,1996-10-01,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+864,OMX,1996-01-02,2008-06-23,absent: no price history found,0,0,0,False,False,False,False
+866,ONE,1996-01-02,2004-07-01,absent: no price history found,0,0,0,True,False,False,False
+869,ORX,1996-01-02,1999-03-01,absent: no price history found,0,0,0,False,False,False,False
+871,OWENQ,1996-01-02,2000-10-02,absent: no price history found,0,0,0,False,False,False,False
+873,PAC,1996-01-02,1997-04-01,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+874,PALM,2000-07-28,2002-08-14,absent: no price history found,0,0,0,False,False,False,False
+876,PARA,2022-02-17,2025-08-08,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+877,PAS,1996-01-02,1998-01-30,absent: no price history found,0,0,0,False,False,False,False
+878,PAYC,2020-01-28,2026-03-23,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+880,PBCT,2008-11-13,2022-04-04,absent: no price history found,0,0,0,True,False,False,False
+881,PBG,2001-05-14,2010-03-01,absent: no price history found,0,0,0,False,False,False,False
+882,PBI,1996-01-02,2017-03-01,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+883,PBY,1996-01-02,2000-04-03,absent: no price history found,0,0,0,True,False,False,False
+885,PCG,1996-01-02,2019-01-18,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+887,PCH,1996-01-02,2001-07-09,absent: no price history found,0,0,0,True,False,False,False
+888,PCL,2002-01-17,2016-02-22,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+889,PCP,2007-06-01,2016-02-01,absent: no price history found,0,0,0,False,False,False,False
+890,PCS,1998-11-24,2004-04-23,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+891,PD,1996-01-02,2007-03-20,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+892,PDCO,2005-10-11,2018-03-19,absent: no price history found,0,0,0,True,False,False,False
+893,PDG,1996-01-02,2002-07-22,absent: no price history found,0,0,0,False,False,False,False
+894,PEAK,2019-11-05,2024-03-04,absent: no price history found,0,0,0,False,False,False,False
+896,PEL,1996-01-02,1997-06-19,absent: no price history found,0,0,0,False,False,False,False
+897,PENN,2021-03-22,2022-09-19,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+899,PET,1996-01-02,1998-06-29,absent: no price history found,0,0,0,False,False,False,False
+900,PETM,2012-10-05,2015-03-12,absent: no price history found,0,0,0,False,False,False,False
+904,PGL,1996-01-02,2007-02-22,absent: no price history found,0,0,0,False,False,False,False
+905,PGN,1996-01-02,2012-07-02,absent: no price history found,0,0,0,False,False,False,False
+908,PHA,1996-01-02,2003-04-16,absent: no price history found,0,0,0,False,False,False,False
+909,PHB,1996-01-02,1999-10-04,absent: no price history found,0,0,0,False,False,False,False
+912,PKI,1996-01-02,2023-05-16,absent: no price history found,0,0,0,True,False,False,False
+914,PLL,1996-01-02,2015-08-31,absent: no price history found,0,0,0,False,False,False,False
+917,PMCS,2001-08-03,2007-07-02,absent: no price history found,0,0,0,False,False,False,False
+918,PMI,1996-01-02,1996-05-31,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+921,PNU,1996-01-02,2000-04-03,absent: no price history found,0,0,0,False,False,False,False
+924,POM,2007-11-09,2016-03-24,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+925,POOL,2020-10-07,2026-06-22,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+928,PPW,1996-01-02,1999-11-30,absent: no price history found,0,0,0,False,False,False,False
+929,PRD,1996-01-02,2000-12-12,absent: no price history found,0,0,0,False,False,False,False
+930,PRGO,2011-12-19,2021-09-20,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+933,PSFT,1998-10-02,2004-12-29,absent: no price history found,0,0,0,False,False,False,False
+934,PSKY,2025-08-08,present,partial: price history starts after index entry,0,0,0,False,False,False,False
+936,PTC,1997-04-03,2007-01-03,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+938,PTV,1999-11-05,2010-11-17,absent: no price history found,0,0,0,False,False,False,False
+939,PVH,2013-02-14,2022-09-19,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+940,PVN,1996-01-02,2005-10-03,absent: no price history found,0,0,0,False,False,False,False
+941,PVT,1998-08-31,1999-07-01,absent: no price history found,0,0,0,False,False,False,False
+942,PWER,2000-10-23,2005-03-14,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+943,PWJ,1999-06-04,2000-11-06,absent: no price history found,0,0,0,False,False,False,False
+945,PX,1996-01-02,2018-10-31,absent: no price history found,0,0,0,False,False,False,False
+946,PXD,2008-09-24,2024-05-08,absent: no price history found,0,0,0,True,False,False,False
+948,PZE,1996-01-02,1998-12-31,absent: no price history found,0,0,0,False,False,False,False
+949,Q,2000-07-06,2011-04-01,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+952,QEP,2010-07-01,2015-07-01,absent: no price history found,0,0,0,True,False,False,False
+953,QLGC,2000-12-12,2011-01-18,absent: no price history found,0,0,0,False,False,False,False
+954,QRVO,2015-06-12,2024-12-23,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+955,QTRN,1999-11-16,2003-09-26,absent: no price history found,0,0,0,False,False,False,False
+956,R,1996-01-02,2017-06-19,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+957,RAD,1996-01-02,2000-07-27,absent: no price history found,0,0,0,True,False,False,False
+958,RAI,2002-09-04,2017-07-25,absent: no price history found,0,0,0,False,False,False,False
+959,RAL,1996-01-02,2001-12-13,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+960,RATL,2002-02-01,2003-02-21,absent: no price history found,0,0,0,False,False,False,False
+961,RBD,1996-01-02,1999-03-25,absent: no price history found,0,0,0,False,False,False,False
+962,RBK,1996-01-02,2006-02-01,absent: no price history found,0,0,0,False,False,False,False
+964,RDC,1996-01-02,2014-08-19,absent: no price history found,0,0,0,True,False,False,False
+966,RDS.A,1996-01-02,2002-07-22,absent: no price history found,0,0,0,False,False,False,False
+967,RE,2017-06-19,2023-07-10,absent: no price history found,0,0,0,True,False,False,False
+971,RHI,2000-12-05,2024-06-24,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+972,RHT,2009-07-27,2019-07-15,absent: no price history found,0,0,0,True,False,False,False
+973,RIG,1999-12-31,2008-12-19,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+974,RIG,2013-10-29,2017-07-26,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+977,RLM,1996-01-02,2000-05-04,absent: no price history found,0,0,0,True,False,False,False
+979,RML,1996-01-02,2000-12-12,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+980,RNB,1996-01-02,2000-01-03,absent: no price history found,0,0,0,False,False,False,False
+981,ROH,1996-01-02,2009-04-02,absent: no price history found,0,0,0,False,False,False,False
+986,RRC,2007-12-21,2018-06-18,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+987,RRD,1996-01-02,2012-12-12,absent: no price history found,0,0,0,True,False,False,False
+989,RSHCQ,1996-01-02,2011-07-01,absent: no price history found,0,0,2,False,False,False,True
+990,RTN,1996-01-02,2020-04-06,absent: no price history found,0,0,0,True,False,False,False
+993,RX,1996-11-04,2010-02-26,absent: no price history found,0,0,0,False,False,False,False
+994,RYAN,1996-01-02,1997-01-02,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+995,RYC,1996-01-02,1999-08-13,absent: no price history found,0,0,0,False,False,False,False
+996,RYI,1996-01-02,1998-07-01,absent: no price history found,0,0,0,True,False,False,False
+997,S,1996-01-02,2013-07-09,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+998,SAF,1996-01-02,2008-09-23,absent: no price history found,0,0,0,True,False,False,False
+999,SAI,1997-07-17,1999-01-04,absent: no price history found,0,0,0,False,False,False,False
+1000,SANM,2000-06-21,2007-07-02,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+1001,SAPE,2000-05-05,2002-05-13,absent: no price history found,0,0,0,False,False,False,False
+1002,SATS,2026-03-23,2026-06-24,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+1003,SB,1996-01-02,1997-11-28,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+1005,SBL,2000-12-11,2007-01-10,absent: no price history found,0,0,0,False,False,False,False
+1006,SBNY,2021-12-20,2023-03-15,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+1008,SCG,2009-01-02,2019-01-02,absent: no price history found,0,0,0,True,False,False,False
+1010,SCI,1996-01-02,2000-03-16,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+1011,SDS,2002-07-22,2005-08-12,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+1012,SE,2007-01-03,2017-02-27,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+1013,SEBL,2000-05-05,2006-02-01,absent: no price history found,0,0,0,False,False,False,False
+1014,SEDG,2021-12-20,2023-12-18,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+1015,SEE,1998-04-01,2023-12-18,absent: no price history found,0,0,0,True,False,False,False
+1016,SEG,1996-08-16,2000-11-22,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+1017,SFA,1996-01-02,2006-02-27,absent: no price history found,0,0,0,False,False,False,False
+1018,SFS,1996-01-02,1997-07-28,absent: no price history found,0,0,0,True,False,False,False
+1019,SGID,1996-01-02,2000-06-21,absent: no price history found,0,0,0,False,False,False,False
+1020,SGP,1996-01-02,2009-11-04,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+1021,SHLD,2005-03-28,2012-09-05,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+1022,SHN,1996-01-02,1997-01-02,absent: no price history found,0,0,0,False,False,False,False
+1024,SIAL,1996-01-02,2015-11-18,absent: no price history found,0,0,0,False,False,False,False
+1025,SIG,2015-07-29,2018-03-19,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+1026,SII,2006-10-02,2010-08-27,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+1027,SIVB,2018-03-19,2023-03-15,absent: no price history found,0,0,0,True,False,False,False
+1029,SK,1996-01-02,1998-04-01,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+1031,SLG,2015-03-23,2021-03-22,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+1032,SLM,1998-07-01,2014-05-01,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+1033,SLR,1998-12-31,2007-10-02,absent: no price history found,0,0,0,False,False,False,False
+1035,SMI,1996-01-02,2000-12-12,absent: no price history found,0,0,0,True,False,False,False
+1036,SMS,1996-01-02,2000-06-08,absent: no price history found,0,0,0,False,False,False,False
+1038,SNDK,2006-04-20,2016-05-12,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+1040,SNI,2008-07-01,2018-03-07,absent: no price history found,0,0,0,False,False,False,False
+1042,SNT,1996-01-02,1999-10-26,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+1043,SNV,1997-12-01,2008-01-02,absent: no price history found,0,0,0,True,False,False,False
+1045,SOLS,2025-10-30,2025-12-22,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+1047,SOTR,1999-03-01,2004-11-01,absent: no price history found,0,0,0,False,False,False,False
+1048,SOV,2004-07-01,2009-01-30,absent: no price history found,0,0,0,False,False,False,False
+1051,SPLS,1998-10-07,2017-09-13,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+1052,SRCL,2008-11-19,2018-12-03,absent: no price history found,0,0,0,True,False,False,False
+1054,SRR,1996-01-02,1997-10-07,absent: no price history found,0,0,0,False,False,False,False
+1055,SSP,2005-12-20,2008-07-01,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+1057,STI,1996-01-02,2019-12-09,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+1058,STJ,1996-01-02,2017-01-05,absent: no price history found,0,0,0,False,False,False,False
+1060,STO,1996-01-02,1998-11-18,absent: no price history found,0,0,0,False,False,False,False
+1061,STR,2006-12-01,2010-07-01,absent: no price history found,0,0,0,False,False,False,False
+1065,SUB,1998-01-28,2001-03-01,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+1066,SUN,1996-01-02,2012-10-05,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+1067,SUNEQ,2007-05-31,2011-12-19,absent: no price history found,0,0,0,False,False,False,False
+1068,SVU,1996-01-02,2012-05-01,absent: no price history found,0,0,0,False,False,False,False
+1072,SWN,2008-06-06,2017-04-04,absent: no price history found,0,0,0,True,False,False,False
+1073,SWY,1998-11-13,2015-01-27,absent: no price history found,0,0,0,False,False,False,False
+1074,SXCL,1999-10-01,2001-05-14,absent: no price history found,0,0,0,False,False,False,False
+1077,SYMC,2003-03-31,2019-11-05,absent: no price history found,0,0,0,True,False,False,False
+1080,TA,1996-01-02,1999-07-22,absent: no price history found,0,0,0,True,False,False,False
+1082,TCOMA,1996-01-02,1999-03-10,absent: no price history found,0,0,0,False,False,False,False
+1083,TDC,2007-10-01,2017-06-19,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+1085,TDM,1996-01-02,1997-09-02,absent: no price history found,0,0,0,False,False,False,False
+1087,TE,2001-10-10,2016-07-01,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+1089,TEG,2007-02-22,2015-06-30,absent: no price history found,0,0,0,False,False,False,False
+1090,TEK,1996-01-02,2007-11-16,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+1091,TEL,2007-07-02,2009-06-26,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+1093,TEN,1996-01-02,1999-11-05,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+1094,TER,1999-11-15,2013-12-23,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+1096,TEX,2006-12-20,2008-11-06,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+1098,TFX,2019-01-18,2025-03-24,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+1099,TGNA,1996-01-02,2017-06-02,absent: no price history found,0,1,6,True,False,False,True
+1101,THC,1996-01-02,2016-04-18,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+1102,THY,1996-01-02,1996-10-16,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+1103,TIE,2007-10-29,2012-12-24,absent: no price history found,0,0,0,False,False,False,False
+1104,TIF,2000-06-21,2021-01-07,absent: no price history found,0,0,0,True,False,False,False
+1105,TIN,1996-01-02,2007-12-31,absent: no price history found,0,0,0,False,False,False,False
+1108,TKR,1996-01-02,2001-08-07,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+1109,TLAB,1996-01-02,2011-12-21,absent: no price history found,0,0,0,False,False,False,False
+1110,TMC,1996-01-02,2000-06-13,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+1111,TMC.A,1996-01-02,2000-06-13,absent: no price history found,0,0,0,False,False,False,False
+1112,TMK,1996-01-02,2019-08-08,absent: no price history found,0,3,0,True,False,False,False
+1114,TMUS,2009-06-30,2013-05-01,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+1116,TNB,1996-01-02,2004-08-03,absent: no price history found,0,0,0,False,False,False,False
+1117,TOS,1999-09-20,2001-09-17,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+1118,TOY,1996-01-02,2005-07-22,absent: no price history found,0,0,0,False,False,False,False
+1121,TRB,1996-01-02,2007-12-21,absent: no price history found,0,0,0,False,False,False,False
+1123,TRIP,2011-12-21,2019-12-23,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+1127,TRW,1996-01-02,2002-12-12,absent: no price history found,0,0,0,False,False,False,False
+1129,TSG,2000-03-16,2007-04-02,absent: no price history found,0,0,0,True,False,False,False
+1132,TSS,2008-01-02,2019-09-23,absent: no price history found,0,0,0,True,False,False,False
+1133,TT,2002-05-13,2008-06-06,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+1137,TUP,1996-05-31,2004-03-25,absent: no price history found,0,0,0,True,False,False,False
+1138,TWC,2009-03-30,2016-05-18,absent: no price history found,0,0,0,False,False,False,False
+1139,TWTR,2018-06-07,2022-11-01,absent: no price history found,0,0,0,True,False,False,False
+1140,TWX,1996-01-02,2018-06-15,absent: no price history found,0,0,0,False,False,False,False
+1141,TX,1996-01-02,2001-10-10,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+1144,TXU,1996-01-02,2007-10-10,absent: no price history found,0,0,0,False,False,False,False
+1146,UA,2016-04-08,2022-06-21,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+1147,UAA,2014-05-01,2022-06-21,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+1149,UAWGQ,1996-01-02,2002-05-15,absent: no price history found,0,0,0,False,False,False,False
+1151,UCC,1996-01-02,1999-05-03,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+1152,UCL,1996-01-02,2005-08-11,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+1153,UCM,1996-01-02,2000-10-23,absent: no price history found,0,0,0,False,False,False,False
+1156,UIS,1996-01-02,2008-11-11,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+1157,UK,1996-01-02,2001-02-07,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+1159,UMG,1996-01-02,2000-06-15,absent: no price history found,0,0,0,False,False,False,False
+1160,UN,1996-01-02,2002-07-22,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+1162,UNM,1996-01-02,2021-09-20,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+1164,UPC,1998-10-01,2004-07-01,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+1165,UPR,1996-10-16,2000-07-17,absent: no price history found,0,0,0,False,False,False,False
+1167,URBN,2010-02-08,2017-03-20,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+1170,USBC,1996-01-02,1997-08-04,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+1171,USH,1996-01-02,1997-06-18,absent: no price history found,0,0,0,False,False,False,False
+1172,USHC,1996-01-02,1996-07-19,absent: no price history found,0,0,0,False,False,False,False
+1173,USS,1996-01-02,1998-10-02,absent: no price history found,0,0,0,False,False,False,False
+1174,UST,1996-01-02,2009-01-06,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+1175,USW,1996-01-02,2000-07-03,absent: no price history found,0,0,0,False,False,False,False
+1176,UTX,1996-01-02,2020-04-03,absent: no price history found,0,0,0,True,False,False,False
+1177,UVN,2001-02-07,2007-03-29,absent: no price history found,0,0,0,False,False,False,False
+1179,VAR,2007-02-12,2021-04-20,absent: no price history found,0,1,0,True,False,False,False
+1180,VAT,1996-01-02,1996-09-06,absent: no price history found,0,0,0,False,False,False,False
+1182,VFC,1996-01-02,2024-04-01,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+1183,VIAB,2006-01-03,2019-12-05,absent: no price history found,0,0,0,True,False,False,False
+1184,VIAC,2019-12-05,2022-02-17,absent: no price history found,0,0,0,False,False,False,False
+1185,VIAV,2000-07-27,2013-12-23,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+1191,VNO,2005-08-12,2023-01-04,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+1192,VNT,2020-10-12,2021-03-22,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+1193,VO,1996-01-02,2000-12-11,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,False,False,False,False
+1197,VRTS,2000-04-03,2005-07-05,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+1200,VSTNQ,2000-06-29,2006-01-03,absent: no price history found,0,0,0,False,False,False,False
+1203,VTSS,2000-12-12,2002-08-21,absent: no price history found,0,0,0,False,False,False,False
+1206,WAI,1996-01-02,1998-08-11,absent: no price history found,0,0,0,False,False,False,False
+1207,WAMUQ,1997-07-02,2008-09-30,absent: no price history found,5,0,0,False,False,False,True
+1209,WB,1996-01-02,2009-01-02,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+1210,WBA,1996-01-02,2025-08-28,absent: no price history found,0,0,0,True,False,False,False
+1211,WBD,2022-04-11,present,absent: no price history found,0,0,0,False,False,False,False
+1212,WCG,2018-09-17,2020-01-28,absent: no price history found,0,0,0,True,False,False,False
+1213,WCOEQ,1996-04-01,2002-05-15,absent: no price history found,0,0,0,False,False,False,False
+1218,WEN,1996-01-02,2008-09-30,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+1220,WFM,2006-01-03,2017-08-28,absent: no price history found,0,0,0,False,False,False,False
+1221,WFT,2005-07-22,2009-02-26,absent: no price history found,0,0,0,True,False,False,False
+1222,WHR,1996-01-02,2024-03-18,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+1223,WIN,2006-07-18,2015-04-07,absent: no price history found,0,0,0,True,False,False,False
+1224,WLA,1996-01-02,2000-06-20,absent: no price history found,0,0,0,False,False,False,False
+1225,WLL,1996-01-02,2002-02-11,absent: no price history found,0,0,0,True,False,False,False
+1226,WLP,1999-06-09,2004-12-01,absent: no price history found,0,0,0,False,False,False,False
+1227,WLTW,2016-01-05,2022-01-10,absent: no price history found,0,0,0,True,False,False,False
+1231,WMX,1996-01-02,1998-07-17,absent: no price history found,0,0,0,False,False,False,False
+1232,WNDXQ,1996-01-02,2004-12-03,absent: no price history found,0,0,0,False,False,False,False
+1233,WOR,1996-01-02,2004-12-20,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+1234,WPX,2012-01-03,2014-03-24,absent: no price history found,0,0,0,True,False,False,False
+1236,WRK,2015-07-02,2024-07-08,absent: no price history found,0,0,0,True,False,False,False
+1240,WU,2006-10-02,2021-12-20,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+1241,WWY,1996-01-02,2008-10-07,absent: no price history found,0,0,0,False,False,False,False
+1243,WYE,1996-01-02,2009-10-16,absent: no price history found,0,0,0,False,False,False,False
+1244,WYND,2006-08-01,2018-05-31,absent: no price history found,0,0,0,True,False,False,False
+1246,X,1996-01-02,2014-07-02,absent: no price history found,0,0,0,True,False,False,False
+1247,XEC,2014-06-20,2020-03-03,absent: no price history found,0,0,0,True,False,False,False
+1249,XL,2001-09-04,2018-09-12,absent: no price history found,0,0,0,False,False,False,False
+1250,XLNX,1999-11-08,2022-02-15,absent: no price history found,0,0,0,True,False,False,False
+1252,XRAY,2008-11-14,2024-04-02,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+1253,XRX,1996-01-02,2021-03-22,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
+1254,XTO,2004-12-29,2010-06-28,absent: no price history found,0,0,0,False,False,False,False
+1257,YNR,2000-01-06,2000-10-03,absent: no price history found,0,0,0,False,False,False,False
+1258,YRCW,1996-01-02,1996-11-04,absent: no price history found,0,0,0,True,False,False,False
+1262,ZION,2001-06-25,2024-03-18,unverified: closed membership but ticker trades today (likely reused or demoted); excluded in clean run,0,0,0,True,False,False,False
