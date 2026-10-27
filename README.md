@@ -43,3 +43,12 @@ Start here: [`integrated/summary.json`](integrated/summary.json)
 - Lehman DEF14A TSR is **fiscal November**
 
 Date: 2026-10-27
+
+
+## Frozen daily archive (2026-10-27)
+
+Download (48 MB zip, 364 tickers, SHA-256 checked):
+
+https://github.com/shill32/sp500-gap-reconciliation-20261027/releases/download/daily-archive-20261027/frozen_daily_yahoo_archive_20261027.zip
+
+Ticker map in the repo: [`ticker_to_file.csv`](ticker_to_file.csv). Same file is inside the zip, with frozen exchange descriptions, first/last dates, and SHA-256. Names are the 2018 dataset descriptions, not CIK/PERMNO. `adjclose` is unverified. No delisting cashflows. AGN = Allergan Plc; LSI = Life Storage.
